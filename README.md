@@ -65,7 +65,7 @@ Database Setup
 
   4.  `heroku config:set SEED=true` to get heroku to sync and seed your database
 
-  5.   note everytime your app restarts, the database tables will be dropped and re-created. To avoid this you can `config:unset SEED`
+  5.   note everytime your app restarts, the database tables will be dropped and re-created. To avoid this you hercan `config:unset SEED`
 
 
 * **If you already have a Heroku app...**
